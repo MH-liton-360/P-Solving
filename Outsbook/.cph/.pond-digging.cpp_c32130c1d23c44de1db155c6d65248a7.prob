@@ -1,0 +1,1 @@
+{"name":"Local: pond-digging","url":"d:\\P-Solving\\Outsbook\\pond-digging.cpp","tests":[{"id":1759262841624,"input":"100 80 3 2","output":"832"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\P-Solving\\Outsbook\\pond-digging.cpp","group":"local","local":true}
