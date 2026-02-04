@@ -7,7 +7,8 @@ int main()
     cin >> t;
     while (t--)
     {
-        /* code */
+        int n;
+        cin >> n;
     }
 
     return 0;
